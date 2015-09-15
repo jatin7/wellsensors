@@ -1,2 +1,2 @@
 # wellsensors
-private repo for well sensor data
+This is a temporary repo for well sensor data.
